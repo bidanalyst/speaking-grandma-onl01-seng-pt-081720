@@ -12,4 +12,6 @@
 # However if you say 'I LOVE YOU GRANDMA!', she should respond with
 # 'I LOVE YOU TOO PUMPKIN!'
 
-phrase = "i love you grandma!"
+def speak_to_grandma
+  if phrase == "I LOVE YOU GRANDMA!"  
+    ""
